@@ -4,6 +4,21 @@ This guide explains how to set up and run the Laravel project using Docker.
 
 ---
 
+
+
+## Prerequisites
+
+- **PHP**: Ensure PHP (v8.1 or higher) is installed on your system.
+- **Composer**: Install Composer for managing Laravel dependencies.
+- **Database**: Install a database system such as MySQL or PostgreSQL.
+- **Web Server**: Apache or Nginx is recommended.
+
+
+https://laravel.com/docs/11.x/installation
+
+
+
+
 ## Prerequisites
 
 - Docker and Docker Compose must be installed on your system.
